@@ -1,0 +1,7 @@
+C:\Users\ASUS\Desktop\GreenVsRed\GreenVsRed\GreenVsRed\bin\Debug\GreenVsRed.exe.config
+C:\Users\ASUS\Desktop\GreenVsRed\GreenVsRed\GreenVsRed\bin\Debug\GreenVsRed.exe
+C:\Users\ASUS\Desktop\GreenVsRed\GreenVsRed\GreenVsRed\bin\Debug\GreenVsRed.pdb
+C:\Users\ASUS\Desktop\GreenVsRed\GreenVsRed\GreenVsRed\obj\Debug\GreenVsRed.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\GreenVsRed\GreenVsRed\GreenVsRed\obj\Debug\GreenVsRed.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\GreenVsRed\GreenVsRed\GreenVsRed\obj\Debug\GreenVsRed.exe
+C:\Users\ASUS\Desktop\GreenVsRed\GreenVsRed\GreenVsRed\obj\Debug\GreenVsRed.pdb
